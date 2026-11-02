@@ -17,6 +17,8 @@ Desde 2025 estudio computación, IA y matemáticas con un plan propio que sigue 
 
 Python · C++23 · Git · Obsidian · Linear · Claude Code
 
+**En la terminal:** escribo y corro mis ejercicios desde la terminal (zsh), edito con nano y trabajo con atajos de teclado en lugar del ratón. Es parte de mi Taller de herramientas: el siguiente paso es Neovim.
+
 ## 📫 Contacto
 
 [LinkedIn](https://www.linkedin.com/in/diana-arrubla)
